@@ -3,7 +3,7 @@
 A RESTful API for a blog application with user authentication, posts, comments, and likes functionality.
 
 ## Features
-
+.
 - **User Authentication**: JWT-based authentication with registration and login
 - **Posts**: Create, read, update, and delete posts
 - **Comments**: Add comments to posts
